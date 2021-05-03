@@ -41,9 +41,10 @@
 <img src="clowningaround1.png" alt="Clowning Around Logo" width="" height="">
 </h3>
 </div>
-
-<p style="font-family: captain-comic,ccmeanwhile,sans-serif;font-size:16px;font-style:normal">ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
-
+<h3 style="border:2px solid black;"> 
+<p style="font-family:ccmeanwhile,sans-serif;font-size:16px;font-style:normal"><mark>Please use the navigation bar above to access content. Thank you.</mark>
+Here is a link to the original rule book for <i>TOON</i> which has not been fully transcribed for this website's use, <a href="https://i.4pcdn.org/tg/1367587333244.pdf"><i>TOON</i> can be hard to describe, but for a basic run-down click 'About' for some history.</a></p>
+	</h3>
 <div id="wrapper1">
 <footer><strong>Copyright<p>&copy;</p></strong></footer>	
 </div>
